@@ -56,7 +56,7 @@ Each financial record includes:
 
 ## Setup
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 cd finance-dashboard-backend
 python -m venv venv
 .\venv\Scripts\Activate.ps1
